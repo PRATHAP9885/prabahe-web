@@ -1,15 +1,5 @@
 {
-  "redirects": [
-    {
-      "source": "https://www.prabahe.com/:path*",
-      "destination": "https://prabahe.com/:path*",
-      "permanent": true
-    }
-  ],
   "routes": [
-    {
-      "src": "/author/.*",
-      "status": 410
-    }
+    { "src": "^/author/.*", "status": 410 }
   ]
 }
