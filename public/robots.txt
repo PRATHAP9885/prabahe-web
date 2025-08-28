@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://prabahe.com
-
-# Sitemaps
-Sitemap: https://prabahe.com/sitemap.xml
